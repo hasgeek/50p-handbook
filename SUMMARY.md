@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Changelog](changelog.md)
 * [Bharat QR](chapter1.md)
 * [BBPS - How it works](bbps-how-it-works.md)
 * [Samsung Pay](samsung-pay.md)
@@ -10,5 +11,5 @@
 * [Aadhaar and payments](aadhaar-and-payments.md)
 * [Security in FinTech](security-in-fintech.md)
 * [Contactless payments](contactless-payments.md)
-* [Building a payment product in India](building-a-payment-product-in-india.md)
+* Changelog
 
