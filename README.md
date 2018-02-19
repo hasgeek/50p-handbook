@@ -4,7 +4,9 @@ HasGeek is pleased to present The 50p Payments Handbook, a compilation of articl
 
 For up-to-the-minute reading, please visit our blog, [https://blog50p.in](https://blog50p.in) and watch for events and meetups on [https://50p.in](https://blog.50p.in)
 
-This handbook is supported by Instamojo and contains a sponsored interview with the founder of Instamojo. All views expressed in the handbook are the authors’ own. This handbook is continuously updated and revised. For a full list of changes, check out the [changelog](/changelog.md).
+This handbook is supported by Instamojo and contains a sponsored interview with the founder of Instamojo. All views expressed in the handbook are the authors’ own. This handbook is continuously updated and revised. For a full list of changes, check out the [changelog](/changelog.md). 
+
+You can always download this e-book for free in the format you want - [ePub](https://www.gitbook.com/download/epub/book/hasgeek/50p-handbook), [mobi](https://www.gitbook.com/download/mobi/book/hasgeek/50p-handbook) and [PDF](https://www.gitbook.com/download/pdf/book/hasgeek/50p-handbook).
 
 ## Table of contents
 
