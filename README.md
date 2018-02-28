@@ -22,6 +22,8 @@ You can always download this e-book for free in the format you want - [ePub](htt
 
 ### [Aadhaar and payments](/aadhaar-and-payments.md)
 
+### [Payments on WhatsApp? Here's how it works.](/payments-on-whatsapp-heres-how-it-works.md)
+
 ### Cards and Electronic payments
 
 ### [Samsung Pay](/samsung-pay.md)
