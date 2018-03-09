@@ -40,7 +40,7 @@ You can always download this e-book for free in the format you want - [ePub](htt
 
 ### [Building a payment product in India](/building-a-payment-product-in-india.md)
 
-### 
+### [Thoughts on PayTech business models in India](#thoughts-on-paytech-business-models-in-india)
 
 
 
