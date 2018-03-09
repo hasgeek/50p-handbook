@@ -1,10 +1,12 @@
-# Payments on WhatsApp? Here’s how it works.
+# Payments on WhatsApp? Here’s how it works.
+
+_Abhishek Balaji, February 2018_
 
 WhatsApp is among the latest apps to start supporting peer to peer payments using the UPI framework. There has been quite the [controversy surrounding this release](https://www.medianama.com/2018/02/223-paytm-vs-whatsapp-on-upi/) on the features implemented and the NPCI has clarified that the [app will follow all the guidelines](https://www.medianama.com/2018/02/223-npci-statement-calls-whatsapp-payments-launch-a-beta/) set for UPI when the feature rolls out completely.
 
 One of the earliest announcements about this feature was a report by The Ken. You can read more here: [https://the-ken.com/story/whatsapp-upi-payments/](https://the-ken.com/story/whatsapp-upi-payments/)
 
-### Peer to peer payments
+### Peer to peer payments
 
 When UPI was launched, it was met with a lot of cheer by the apps and services which had struggled to find an easy way to enable payments within the app. One had to use a wallet, escrow service, or a third party service to enable such payments.
 
@@ -46,13 +48,13 @@ The integration with UPI for WhatsApp was inevitable, given it’s one of the to
 
 UPI for WhatsApp rolled out earlier this month to some users and users have to be prompted for a payment before they can use the feature. It appears alongside the options available in the attachments menu. Users who’ve already registered on UPI can simply link their accounts by verifying their phone numbers. In the beta phase, WhatsApp is only allowing payments to other WhatsApp users who’ve registered for the service. Payments to merchants or non-WhatsApp VPAs have not rolled out completely as of now. Some Android users are reporting the ability to send payments to any VPA on the app, but the feature is not yet supported on the iOS app.
 
-### Auto VPA creation
+### Auto VPA creation
 
 The regular UPI on-boarding flow requires the user to register a new VPA on the app. This had to be done since the apps partnered with a bank for enabling the features and the VPAs could only be issued by the banks. Some apps like BHIM and Google Tez auto create these VPAs, reducing a step in the registration process for users. This came with its own questions surrounding privacy and anonymity of VPAs, which was one of the important features of UPI. A merchant can simply give out his VPA or create a QR code, which contains no personally identifiable information. Auto-creation of VPAs involve generating the VPA with existing information such as the user’s name or phone number, which raised issues of privacy.
 
 WhatsApp seems to be doing the same thing in its initial beta launch and creates a VPA for you when you sign up. This VPA cannot be changed by the user and we’ll take a look at the VPA scheme later in this article.
 
-### Multi bank backend
+### Multi bank backend
 
 WhatsApp has now partnered with ICICI bank to use their backend for transactions. It plans to add support for multiple banks slowly in phases. Having a multi bank backend has several advantages:
 
@@ -64,7 +66,7 @@ WhatsApp has now partnered with ICICI bank to use their backend for transactions
 
 WhatsApp creates a VPA for you and this is `<phone number>.wa.6XY@icici`. The `@icici` will change as WhatsApp begins to add more banks to it’s backend. The `XY` part keeps changing for each VPA and consists of two letters. While the process of auto-creating VPAs certainly makes it easier for users to start making payments, it does not allow someone to create a private VPA, without letting out their phone number.
 
-### Charges, fees and limits
+### Charges, fees and limits
 
 With UPI, peer-to-peer transactions are not chargeable currently, though this may change soon. Traditionally, if there is a payment being made from a customer to a merchant, the merchant is charged a small fee for the transaction. We might see a similar situation with WhatsApp payments as well, where merchants would be able to use the API access to request for payments or have a QR code scanned. These transactions would cost a small fee for the merchant but not the customer.
 

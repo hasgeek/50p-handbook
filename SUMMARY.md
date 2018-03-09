@@ -11,6 +11,7 @@
 * [Aadhaar and payments](aadhaar-and-payments.md)
 * [Security in FinTech](security-in-fintech.md)
 * [Contactless payments](contactless-payments.md)
-* Changelog
+* [Changelog](changelog.md)
 * [Payments on WhatsApp? Here’s how it works.](payments-on-whatsapp-heres-how-it-works.md)
+* [Thoughts on PayTech business models in India](thoughts-on-paytech-business-models-in-india.md)
 
