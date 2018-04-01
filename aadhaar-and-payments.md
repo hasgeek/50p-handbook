@@ -75,6 +75,3 @@ In ABRS, a remitter can initiate an IMPS \(Immediate Payment Service\) transacti
 **IIN** — Issuer Identification Number — A number to identify the bank / non-bank issuer.
 
 **QSAM** — Query service on Aadhaar mapper — To facilitate the effective implementation of ABRS, a new feature was added to NUUP \(USSD based platform on 99\#\) service. Under this new service, the customer will be able to know, whether his or her Aadhaar number is seeded and linked to any bank account number and if yes, then with which bank and when it was last updated. Dial 9999\# on any mobile to check to which bank an Aadhaar is linked.
-
-
-
