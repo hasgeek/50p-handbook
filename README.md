@@ -42,5 +42,7 @@ You can always download this e-book for free in the format you want - [ePub](htt
 
 ### [Thoughts on PayTech business models in India](#thoughts-on-paytech-business-models-in-india)
 
+### [e-KYC workflows in FinTech and payment companies](#e-kyc-workflows-in-fintech-and-payment-companies)
+
 
 
