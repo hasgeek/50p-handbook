@@ -4,23 +4,13 @@
 
 KYC or Know Your Customer is a process followed by businesses selling products and services to customers, agents and merchants. KYC is now commonplace for industries like Banks, Insurance companies and export creditors, as well as companies providing financial services or payment based services and is used for both regulatory requirement as well as market segmentation / targeting customers.
 
-
-
 KYC in India became mandatory in 2010, but RBI had put out the norms for KYC much earlier. It was adopted by Banks, Financial Institutions and large companies providing financial services to verify the identity of a customer. This was started to prevent money laundering in the financial sector.
-
-
 
 > The objective of KYC/AML/CFT guidelines is to prevent banks/FIs from being used, intentionally or unintentionally, by criminal elements for money laundering or terrorist financing activities. KYC procedures also enable banks/FIs to know/understand their customers and their financial dealings better and manage their risks prudently.
 
-
-
 The financial regulator in each country defines the parameters of the KYC verification and the proofs to be collected from merchants or vendors. These can be identify, photo or address proof. Each regulator has a definition of which ID constitutes as a valid proof.
 
-
-
 KYC was earlier done physically. This meant, any agency or institution which requires customers to do a KYC will have to appoint agents, who would go around verifying people’s addresses with the proof they provided. It is estimated that the cost of the collection of one document for KYC can run between Rs. 100 and Rs. 250. In fact, even now a few FinTech companies still rely on physically verifying users’ identity. These are usually done by setting up partner merchants and empowering them to become banking correspondents to perform related tasks.
-
-
 
 ## Types of proofs:
 
@@ -30,11 +20,11 @@ For the purpose of identification and for proof of address, income or identity, 
 
 Many services need a person to prove their identity to reduce the risk of money laundering or fraud. While India does not have a mandated document for proving your identity there are a list of documents which can be used. Currently, India does not have a National Identity Document and hence any document in the list can be used to prove one’s identity.
 
-List here: https://en.wikipedia.org/wiki/Identity\_documents\_of\_India
+List here: [https://en.wikipedia.org/wiki/Identity\_documents\_of\_India](https://en.wikipedia.org/wiki/Identity_documents_of_India)
 
 ### Address proof
 
-Any official document which can be provided as evidence for address of residence from a government body, bank, or utility company is considered as a proof of address. You can find a list of acceptable documents here: https://legaldesk.com/general/address-proof-documents
+Any official document which can be provided as evidence for address of residence from a government body, bank, or utility company is considered as a proof of address. You can find a list of acceptable documents here: [https://legaldesk.com/general/address-proof-documents](https://legaldesk.com/general/address-proof-documents)
 
 ## Types of KYC
 
@@ -60,15 +50,15 @@ CKYC or Central KYC is an initiative of the Government of India to centralise th
 
 A KRA or a KYC Registration Agency is an intermediary providing the service of a central KYC across financial entities. This allows residents to perform a KYC with one of the KRAs registered with SEBI:
 
-- CAMS
+* CAMS
 
-- CDSL
+* CDSL
 
-- DOTEX
+* DOTEX
 
-- KARVY
+* KARVY
 
-- NSDL
+* NSDL
 
 Once the initial KYC is done, the KRA issues a KYC identification number, which can be quoted with financial entities for proving that the KYC process has been completed successfully.
 
@@ -88,9 +78,9 @@ Authentication is the most important part of access control and it’s important
 
 There are two common factors used in authenticating something:
 
-- Something you know such as a password or a PIN
+* Something you know such as a password or a PIN
 
-- Something you have such as a smart card, mobile phone or a key generator. For brevity, we will assume that biometrics also falls into something you have. Fingerprints and Iris are reasonably unique and can be used as a factor of authentication.
+* Something you have such as a smart card, mobile phone or a key generator. For brevity, we will assume that biometrics also falls into something you have. Fingerprints and Iris are reasonably unique and can be used as a factor of authentication.
 
 The need for two factors is important as it prevents two scenarios:
 
@@ -100,11 +90,11 @@ The need for two factors is important as it prevents two scenarios:
 
 In each of these cases, someone trying to gain malicious access to your details or service would need to have both pieces of information to break into your account. For more in-depth reading on private and secret information, check out the post below:
 
-## Aadhaar Authentication based e-KYC
+## Aadhaar Authentication based e-KYC
 
 According to e-Mudra, a certifying authority which provides services for Aadhaar based e-KYC, Aadhaar eKYC is a paperless Know Your Customer \(KYC\) process wherein the identity and the address of the subscriber are verified electronically through Aadhaar authentication.![](/assets/1__qrX9v6hqWKXKc_b8eFM7Q.png)
 
-Source: https://aadhaarapi.com/
+Source: [https://aadhaarapi.com/](https://aadhaarapi.com/)
 
 There are three types of sAadhaar based e-KYC depending on the application and the level of assurance:
 
@@ -126,13 +116,13 @@ Demographic data consists of a resident’s details such as name, address, gende
 
 Service providers are also allowed to verify a user’s identity by triggering a verification with Aadhaar OTP. This involves a One Time Password sent to the resident’s registered mobile number, which has to be entered in the application doing the verification or with the merchant who’s requesting it.
 
-## Authentication/KYC User Agency
+## Authentication/KYC User Agency
 
 Entities that aim to do eKYC, need to use services of KUA \(KYC User agency\) or can get a KUA license and operate one themselves. KUA is a licensed entity having access to UIDAI CIDR through KSA \(KYC service agency, which has firewalled access to CIDR\) to retrieve demographic information from UIDAI after a successful authentication.
 
 ASAs or Authentication User Agency is a service provider who can access the e-KYC through a KSA \(KYC service agency\). These agencies are used by businesses to perform authentication services with Aadhaar e-KYC.
 
-## Tokenization and Virtual ID
+## Tokenization and Virtual ID
 
 The UIDAI earlier in January announced the launch of Virtual Aadhaar IDs. These would be a temporary revocable 16 digit random number issued to a resident, which is mapped to an Aadhaar number. This VID can now be given to service providers when they request for it instead of an Aadhaar number.
 
@@ -140,17 +130,17 @@ This move was taken recently amidst growing concerns of being asked to share one
 
 Till 2018, eKYC returned back the UID of the consumer to the requesting entity, thereby making cross-linking of databases possible. After the roll out of VID, the consumer can opt to use VID and even if KYC is performed for “limited KYC” requirement, UID will not be shared to the requesting entity and only a unique token would be sent back along with demographic details.
 
-## Issues with Aadhaar e-KYC:
+## Issues with Aadhaar e-KYC:
 
 Aadhaar based e-KYC authentication comes with its own set of issues and limitations:
 
-- Unlike CKYC, where the option exists for business to subscribe to updates, eKYC has to be performed by business periodically to prevent data from becoming stale.
+* Unlike CKYC, where the option exists for business to subscribe to updates, eKYC has to be performed by business periodically to prevent data from becoming stale.
 
-- There is an active Supreme Court hearing on the legality of making Aadhaar based e-KYC services mandatory
+* There is an active Supreme Court hearing on the legality of making Aadhaar based e-KYC services mandatory
 
-- Recently, e-KYC services for a lot of entities have been suspended without reason, causing problems for any FinTech trying to onboard new users
+* Recently, e-KYC services for a lot of entities have been suspended without reason, causing problems for any FinTech trying to onboard new users
 
-- Less reliable than physical verification. The financial entity has to trust the data supplied by the UIDAI and associated partners. This leads to a greater assumption of risk compared to physical verification by the financial entity.
+* Less reliable than physical verification. The financial entity has to trust the data supplied by the UIDAI and associated partners. This leads to a greater assumption of risk compared to physical verification by the financial entity.
 
 ## Cost implications
 
@@ -164,37 +154,37 @@ Recently, KYC has been in the limelight for different reasons. The most importan
 
 # Resources
 
-1. \[Aadhaar Dashboard\]\(https://uidai.gov.in/aadhaar\_dashboard/ekyc\_trend.php\)
+1. \[Aadhaar Dashboard\]\([https://uidai.gov.in/aadhaar\_dashboard/ekyc\_trend.php\](https://uidai.gov.in/aadhaar_dashboard/ekyc_trend.php\)\)
 
-2. \[Application For Digital Signature Certificates, Personal Digital Signature, Digital Certificate Application Form \| e-Mudhra\]\(http://www.e-mudhra.com/\)
+2. \[Application For Digital Signature Certificates, Personal Digital Signature, Digital Certificate Application Form \| e-Mudhra\]\([http://www.e-mudhra.com/\](http://www.e-mudhra.com/\)\)
 
-3. \[Aadhaar Integration \| Aadhaar UIDAI Authentication API \| Aadhaar eKYC App Software \| AadhaarBridge\]\(https://www.aadhaarbridge.com/\)
+3. \[Aadhaar Integration \| Aadhaar UIDAI Authentication API \| Aadhaar eKYC App Software \| AadhaarBridge\]\([https://www.aadhaarbridge.com/\](https://www.aadhaarbridge.com/\)\)
 
-4. \[Financial Services Company in India \| Financial Solutions \| Karvy\]\(https://www.karvy.com/\)
+4. \[Financial Services Company in India \| Financial Solutions \| Karvy\]\([https://www.karvy.com/\](https://www.karvy.com/\)\)
 
-5. \[RBI toughens KYC norms for payments banks in India\]\(https://yourstory.com/2018/02/rbi-now-toughens-kyc-norms-for-payments-bank-in-india-what-does-it-mean/\)
+5. \[RBI toughens KYC norms for payments banks in India\]\([https://yourstory.com/2018/02/rbi-now-toughens-kyc-norms-for-payments-bank-in-india-what-does-it-mean/\](https://yourstory.com/2018/02/rbi-now-toughens-kyc-norms-for-payments-bank-in-india-what-does-it-mean/\)\)
 
-6. \[Know All About Paytm KYC – Paytm Blog\]\(https://blog.paytm.com/few-important-changes-in-paytm-from-1st-march-95b31549d6eb\)
+6. \[Know All About Paytm KYC – Paytm Blog\]\([https://blog.paytm.com/few-important-changes-in-paytm-from-1st-march-95b31549d6eb\](https://blog.paytm.com/few-important-changes-in-paytm-from-1st-march-95b31549d6eb\)\)
 
-7. \[UIDAI adds another security level VID for Aadhaar; to roll out by June\]\(https://inc42.com/buzz/uidai-adds-another-security-level-vid-for-aadhaar-sets-june-as-deadline-for-full-rollout/\)
+7. \[UIDAI adds another security level VID for Aadhaar; to roll out by June\]\([https://inc42.com/buzz/uidai-adds-another-security-level-vid-for-aadhaar-sets-june-as-deadline-for-full-rollout/\](https://inc42.com/buzz/uidai-adds-another-security-level-vid-for-aadhaar-sets-june-as-deadline-for-full-rollout/\)\)
+
+# Legend
+
+* KUA: e-KYC User Agencies
+
+* AUA: Authorized User Agencies
+
+* NBFC: Non Banking Financial Company
+
+* UIDAI: Unique Identification Authority of India
+
+* CSC: Customer Service Center
+
+* KYC: Know Your Customer
+
+* AML: Anti Money Laundering
+
+* CFT: Combating the Financing of Terrorism
 
 
-
-\# Legend
-
-- KUA: e-KYC User Agencies
-
-- AUA: Authorized User Agencies
-
-- NBFC: Non Banking Financial Company
-
-- UIDAI: Unique Identification Authority of India
-
-- CSC: Customer Service Center
-
-- KYC: Know Your Customer
-
-- AML: Anti Money Laundering
-
-- CFT: Combating the Financing of Terrorism
 
