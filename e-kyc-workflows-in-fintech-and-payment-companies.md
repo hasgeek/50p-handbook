@@ -154,19 +154,19 @@ Recently, KYC has been in the limelight for different reasons. The most importan
 
 # Resources
 
-1. \[Aadhaar Dashboard\]\([https://uidai.gov.in/aadhaar\_dashboard/ekyc\_trend.php\](https://uidai.gov.in/aadhaar_dashboard/ekyc_trend.php\)\)
+1. [Aadhaar Dashboard](https://uidai.gov.in/aadhaar_dashboard/ekyc_trend.php)
 
-2. \[Application For Digital Signature Certificates, Personal Digital Signature, Digital Certificate Application Form \| e-Mudhra\]\([http://www.e-mudhra.com/\](http://www.e-mudhra.com/\)\)
+2. [e-Mudhra](http://www.e-mudhra.com)
 
-3. \[Aadhaar Integration \| Aadhaar UIDAI Authentication API \| Aadhaar eKYC App Software \| AadhaarBridge\]\([https://www.aadhaarbridge.com/\](https://www.aadhaarbridge.com/\)\)
+3. [AadhaarBridge](https://www.aadhaarbridge.com/)
 
-4. \[Financial Services Company in India \| Financial Solutions \| Karvy\]\([https://www.karvy.com/\](https://www.karvy.com/\)\)
+4. [Karvy](https://www.karvy.com/)
 
-5. \[RBI toughens KYC norms for payments banks in India\]\([https://yourstory.com/2018/02/rbi-now-toughens-kyc-norms-for-payments-bank-in-india-what-does-it-mean/\](https://yourstory.com/2018/02/rbi-now-toughens-kyc-norms-for-payments-bank-in-india-what-does-it-mean/\)\)
+5. [RBI toughens KYC norms for payments banks in India](https://yourstory.com/2018/02/rbi-now-toughens-kyc-norms-for-payments-bank-in-india-what-does-it-mean/)
 
-6. \[Know All About Paytm KYC – Paytm Blog\]\([https://blog.paytm.com/few-important-changes-in-paytm-from-1st-march-95b31549d6eb\](https://blog.paytm.com/few-important-changes-in-paytm-from-1st-march-95b31549d6eb\)\)
+6. [Know All About Paytm KYC – Paytm Blog](https://blog.paytm.com/few-important-changes-in-paytm-from-1st-march-95b31549d6eb)
 
-7. \[UIDAI adds another security level VID for Aadhaar; to roll out by June\]\([https://inc42.com/buzz/uidai-adds-another-security-level-vid-for-aadhaar-sets-june-as-deadline-for-full-rollout/\](https://inc42.com/buzz/uidai-adds-another-security-level-vid-for-aadhaar-sets-june-as-deadline-for-full-rollout/\)\)
+7. [UIDAI adds another security level VID for Aadhaar; to roll out by June](https://inc42.com/buzz/uidai-adds-another-security-level-vid-for-aadhaar-sets-june-as-deadline-for-full-rollout)
 
 # Legend
 
