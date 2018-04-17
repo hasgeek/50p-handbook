@@ -14,4 +14,5 @@
 * [Changelog](changelog.md)
 * [Payments on WhatsApp? Here’s how it works.](payments-on-whatsapp-heres-how-it-works.md)
 * [Thoughts on PayTech business models in India](thoughts-on-paytech-business-models-in-india.md)
+* [e-KYC workflows in Fintech and payment companies](e-kyc-workflows-in-fintech-and-payment-companies.md)
 
